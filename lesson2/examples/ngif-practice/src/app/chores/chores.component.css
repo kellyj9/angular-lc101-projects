@@ -16,3 +16,9 @@ img {
     display: block;
     margin: auto;
 }
+.message {
+    color: green;
+}
+.to-earn {
+    text-align: center;
+}
